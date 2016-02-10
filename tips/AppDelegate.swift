@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  tips
+//  Tips
 //
 //  Created by Daniel Moreh on 2/9/16.
 //  Copyright © 2016 Daniel Moreh. All rights reserved.
